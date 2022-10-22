@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+}
+
+.table-header {
+    background-color: #9f9f9f;
+}
+
+.table-row {
+    height:77px;
+    background-color: #cccccc;
+}

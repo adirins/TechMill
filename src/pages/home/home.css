@@ -1,0 +1,35 @@
+
+header {
+    position: sticky;
+    top: 0;
+    background-color: #b6b6b6;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.logo {
+    position: absolute;
+    top: 10px;
+    left: 10px
+}
+
+.logo-main {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #0060F5;
+}
+
+.logo-secondary {
+    display: flex;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: black;
+    transform: translateX(50%) translateY(-50%);
+}
+
+.table-container {
+    max-height: calc(100vh - 120px);
+    min-height: calc(100vh - 120px);
+    overflow-x: hidden;
+    overflow-y: auto;
+}

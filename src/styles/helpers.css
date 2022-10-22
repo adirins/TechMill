@@ -1,0 +1,43 @@
+.flex {
+    display: flex;
+}
+
+.block {
+    display: block;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.ml-5 {
+    margin-left: 5px;
+}
+
+.ml-10 {
+    margin-left: 10px;
+}
+
+.mr-5 {
+    margin-right: 5px;
+}
+
+.mb-5 {
+    margin-bottom: 5px;
+}
+
+.mx-auto {
+    margin: 0 auto;
+}
+
+.pt-10 {
+    padding-top: 10px;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.pointer {
+    cursor: pointer;
+}
